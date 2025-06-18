@@ -7,9 +7,10 @@
 - 😎 Optimist who loves tackling new challenges
 - 📈 A frontend dev transitioning into 100xDev
 - 📫 How to reach me **nsharc4@gmail.com**, **[X](https://x.com/nishanth_arcot)**
-- ⚡ Checkout my latest project - [Optixchanges](https://optixchanges.com/)
+<!-- - ⚡ Checkout my latest project - [Optixchanges](https://optixchanges.com/) -->
 
-## 💼 Professional Experience  
+## 💼 Professional Experience
+- **Volkano AI** - Fullstack Engineer (Full-time, Apr 2025 - Present)
 - **Endowus** – Software Developer (Full-time, Jul 2023 - Jul 2024)
 - **Amai Consulting** – Frontend Developer (Part-time, Jul 2022 - Jun 2023)
 - **Couture AI** – Frontend Developer (Intern, Jan 2022 - May 2022)
