@@ -11,7 +11,7 @@
 
 ## 💼 Professional Experience
 - **CDMBase** - Fullstack Engineer (Full-time, Jul 2025 - Present)
-- **Volkano AI** - Fullstack Engineer (Contract, Apr 2025 - Jun 2025)
+- **AMAI Consulting** - Frontend (Founding-Member, Aug 2024 - Jun 2025)
 - **Endowus** – Software Developer (Full-time, Jul 2023 - Jul 2024)
 - **Amai Consulting** – Frontend Developer (Part-time, Jul 2022 - Jun 2023)
 - **Couture AI** – Frontend Developer (Intern, Jan 2022 - May 2022)
