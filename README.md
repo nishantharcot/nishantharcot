@@ -44,7 +44,6 @@
 ## 📫 Let's Connect
 
 <p align="left" style="display: flex; gap: 10px;">
-<a href="https://x.com/nishanth_arcot" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="itsflash#2675" height="30" /></a>
 <a href="https://www.linkedin.com/in/nishanth-arcot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-shubham-8a4805179" height="30" /></a>
 </p> 
 
