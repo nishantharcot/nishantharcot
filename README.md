@@ -6,7 +6,7 @@
 
 - 😎 Optimist who loves tackling new challenges
 - 📈 A frontend dev transitioning into 100xDev
-- 📫 How to reach me **nsharc4@gmail.com**, **[X](https://x.com/nishanth_arcot)**
+- 📫 How to reach me **nsharc4@gmail.com**
 <!-- - ⚡ Checkout my latest project - [Optixchanges](https://optixchanges.com/) -->
 
 ## 💼 Professional Experience
