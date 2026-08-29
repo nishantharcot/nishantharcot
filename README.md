@@ -14,7 +14,7 @@ IIIT Hyderabad, B.Tech + MS by Research (CS) · Hyderabad, India · open to relo
 - **Distributed backends** — Node.js, TypeScript, GraphQL (Apollo, subscriptions, PubSub), Moleculer microservices, async job orchestration
 - **Database infrastructure** — primary author of automated multi-engine provisioning across AWS RDS PostgreSQL, Aurora, self-hosted MySQL and MongoDB Atlas
 - **MCP** — agent skill bundles defining connector contracts and natural-language routing
-- **Product** — originated two of Yantra's 24 apps from zero: Mail Campaign and Inbox
+- **Product** — originated two of Yantra's 24 apps from zero (Mail Campaign, Inbox) and wrote the bulk of a third (Notes)
 
 `TypeScript` `Python` `Node.js` `GraphQL` `Inngest` `Docker` `Kubernetes` `MongoDB` `PostgreSQL` `Redis` `AWS`
 
