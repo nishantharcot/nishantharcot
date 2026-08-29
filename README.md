@@ -1,7 +1,7 @@
 ### Nishanth Arcot
 
 AI engineer — multi-agent systems, LLM orchestration, distributed backends.
-Currently at CDMBase (remote, US), building agent runtimes and the platform underneath them.
+Founding engineer at Yantra (CDMBase, remote US) — an agent platform shipping 1,000+ connectors, 24 built-in apps and a CLI that drives your OS and browser.
 
 IIIT Hyderabad, B.Tech + MS by Research (CS) · Hyderabad, India · open to relocation
 
@@ -14,6 +14,7 @@ IIIT Hyderabad, B.Tech + MS by Research (CS) · Hyderabad, India · open to relo
 - **Distributed backends** — Node.js, TypeScript, GraphQL (Apollo, subscriptions, PubSub), Moleculer microservices, async job orchestration
 - **Database infrastructure** — primary author of automated multi-engine provisioning across AWS RDS PostgreSQL, Aurora, self-hosted MySQL and MongoDB Atlas
 - **MCP** — agent skill bundles defining connector contracts and natural-language routing
+- **Product** — originated two of Yantra's 24 apps from zero: Mail Campaign and Inbox
 
 `TypeScript` `Python` `Node.js` `GraphQL` `Inngest` `Docker` `Kubernetes` `MongoDB` `PostgreSQL` `Redis` `AWS`
 
