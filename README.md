@@ -1,51 +1,38 @@
-# Hi, I'm Nishanth Arcot 👋  
+### Nishanth Arcot
 
+AI engineer — multi-agent systems, LLM orchestration, distributed backends.
+Currently at CDMBase (remote, US), building agent runtimes and the platform underneath them.
 
+IIIT Hyderabad, B.Tech + MS by Research (CS) · Hyderabad, India · open to relocation
 
-## 🚀 About Me  
+---
 
-- 😎 Optimist who loves tackling new challenges
-- 📈 A frontend dev transitioning into 100xDev
-- 📫 How to reach me **nsharc4@gmail.com**
-<!-- - ⚡ Checkout my latest project - [Optixchanges](https://optixchanges.com/) -->
+**What I work on**
 
-## 💼 Professional Experience
-- **CDMBase** - Fullstack Engineer (Full-time, Jul 2025 - Present)
-- **AMAI Consulting** - Frontend (Founding-Member, Aug 2024 - Jun 2025)
-- **Endowus** – Software Developer (Full-time, Jul 2023 - Jul 2024)
-- **Amai Consulting** – Frontend Developer (Part-time, Jul 2022 - Jun 2023)
-- **Couture AI** – Frontend Developer (Intern, Jan 2022 - May 2022)
+- **Agent runtimes** — Inngest-orchestrated multi-agent systems: tool calling, checkpointed steps, automatic retry, streaming inference, sandboxed code execution via E2B
+- **LLM integration** — Anthropic and OpenAI, direct and through proxy services with model-config routing
+- **Distributed backends** — Node.js, TypeScript, GraphQL (Apollo, subscriptions, PubSub), Moleculer microservices, async job orchestration
+- **Database infrastructure** — primary author of automated multi-engine provisioning across AWS RDS PostgreSQL, Aurora, self-hosted MySQL and MongoDB Atlas
+- **MCP** — agent skill bundles defining connector contracts and natural-language routing
 
-## 🏆 Client Projects  
-- **USAG University** – A University Website
-  - 🔗 [Live Demo](https://reverent-shirley-48c03f.netlify.app/) | 📂 [GitHub Repo](https://github.com/nishantharcot/usa-gu)
-  - **Tech Stack:** VueJS, Vuetify  
-- **Becton College** – A College Website
-  - 🔗 [Live Demo](https://determined-allen-7164db.netlify.app/) | 📂 [GitHub Repo](https://github.com/nishantharcot/college-website)
-  - **Tech Stack:** VueJS, Vuetify
-- **CashUSA24/7** – A fast and secure loan matching platform that connects borrowers with lenders, providing quick financial solutions.
-  - 🔗 [Live Demo](https://cashusa247.com/)
-  - **Tech Stack:** HTML, CSS, Javascript, Bulma
+`TypeScript` `Python` `Node.js` `GraphQL` `Inngest` `Docker` `Kubernetes` `MongoDB` `PostgreSQL` `Redis` `AWS`
 
-## 🛠 Personal Projects  
-- **Optixchanges** – A web-based platform for analyzing, simulating, and executing options trading strategies.
-  - 🔗 [Live Demo](https://optixchanges.com/) | 📂 [GitHub Repo](https://github.com/nishantharcot/options-trading-site)
-  - **Tech Stack:** NextJS, ExpressJS, Typescript, Redis, MongoDB, Docker, Kubernetes
-- **CRT-APM Project** – This project is developed as part of a research problem that investigates how constraints in problem-solving can affect creative thinking.  
-  - 🔗 [Live Demo](https://crt-apm-project.web.app/)
-  - **Tech Stack:** ReactJS, Firebase
+---
 
-## 💻 **Tech I Use**:
-  - **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js
-  - **Backend**: Node.js, Express.js
-  - **Database**: Redis, MongoDB, Firebase
-  - **Devops/Infrastructure**: Docker, Kubernetes
+**Competitive programming**
 
-## 📫 Let's Connect
+[![LeetCode](https://img.shields.io/badge/LeetCode-2050_contest_rating_·_top_2%25-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/nsharc4/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert_1669_·_top_2.5%25_India-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nsharc4)
 
-<p align="left" style="display: flex; gap: 10px;">
-<a href="https://www.linkedin.com/in/nishanth-arcot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-shubham-8a4805179" height="30" /></a>
-</p> 
+Rank 150 / 13,000 — Educational Codeforces Round 129 · AIR 1925 / 1.3M — JEE Mains 2017
 
+---
 
+**Research**
 
+Arcot, N., Srivastava, P., & Jaarsveld, S. (2023). *Do constraints in APM solving affect APM-like puzzle creation?*
+Proceedings of the Annual Meeting of the Cognitive Science Society. → [escholarship.org](https://escholarship.org/uc/item/35v4x5b5)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/nishanth-arcot/) · nsharc4@gmail.com
