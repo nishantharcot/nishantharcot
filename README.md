@@ -1,7 +1,7 @@
 ### Nishanth Arcot
 
 AI engineer — multi-agent systems, LLM orchestration, distributed backends.
-Founding engineer at Yantra (CDMBase, remote US) — an agent platform shipping 1,000+ connectors, 24 built-in apps and a CLI that drives your OS and browser.
+Founding engineer at [Yantra](https://yantra.app) (CDMBase, remote US) — an agent platform shipping 1,000+ connectors, 24 built-in apps and a CLI that drives your OS and browser.
 
 IIIT Hyderabad, B.Tech + MS by Research (CS) · Hyderabad, India · open to relocation
 
